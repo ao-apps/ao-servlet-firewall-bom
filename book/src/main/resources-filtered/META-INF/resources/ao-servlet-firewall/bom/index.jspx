@@ -34,6 +34,7 @@ along with ao-servlet-firewall-bom.  If not, see <http://www.gnu.org/licenses />
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2019-06-08T20:59:45-0500"
+		dateModified="2019-06-08T21:35:26-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<header>
