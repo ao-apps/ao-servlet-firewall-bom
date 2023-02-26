@@ -19,7 +19,7 @@ Bill of Materials (BOM) for servlet-based application request filtering.
 ## Project Links
 * [Project Home](https://oss.aoapps.com/servlet-firewall/bom/)
 * [Changelog](https://oss.aoapps.com/servlet-firewall/bom/changelog)
-* [Maven Central Repository](https://search.maven.org/artifact/com.aoapps/ao-servlet-firewall-bom)
+* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.aoapps&q=a%3Aao-servlet-firewall-bom)
 * [GitHub](https://github.com/ao-apps/ao-servlet-firewall-bom)
 
 ## Managed Dependencies
