@@ -1,8 +1,8 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/ao-apps) [AO OSS](https://github.com/ao-apps/ao-oss) / [Servlet Firewall](https://github.com/ao-apps/ao-servlet-firewall) / [BOM](https://github.com/ao-apps/ao-servlet-firewall-bom)
 
-[![project: alpha](https://oss.aoapps.com/ao-badges/project-alpha.svg)](https://aoindustries.com/life-cycle#project-alpha)
-[![management: preview](https://oss.aoapps.com/ao-badges/management-preview.svg)](https://aoindustries.com/life-cycle#management-preview)
-[![packaging: developmental](https://oss.aoapps.com/ao-badges/packaging-developmental.svg)](https://aoindustries.com/life-cycle#packaging-developmental)  
+[![project: end of life](https://oss.aoapps.com/ao-badges/project-end-of-life.svg)](https://aoindustries.com/life-cycle#project-end-of-life)
+[![management: cleanup](https://oss.aoapps.com/ao-badges/management-cleanup.svg)](https://aoindustries.com/life-cycle#management-cleanup)
+[![packaging: unsupported](https://oss.aoapps.com/ao-badges/packaging-unsupported.svg)](https://aoindustries.com/life-cycle#packaging-unsupported)  
 [![semantic versioning: 2.0.0](https://oss.aoapps.com/ao-badges/semver-2.0.0.svg)](https://semver.org/spec/v2.0.0.html)
 [![license: LGPL v3](https://oss.aoapps.com/ao-badges/license-lgpl-3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
@@ -15,6 +15,10 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=javaee&project=com.aoapps%3Aao-servlet-firewall-bom&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=javaee&id=com.aoapps%3Aao-servlet-firewall-bom&metric=Maintainability)
 
 Bill of Materials (BOM) for servlet-based application request filtering.
+
+## End of Life
+This branch is end-of-life and will no longer receive any updates or releases.
+Please switch to a newer, maintained branch.
 
 ## Project Links
 * [Project Home](https://oss.aoapps.com/servlet-firewall/bom/)
